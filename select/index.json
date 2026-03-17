@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Survival of the Fittest",
+  "base_artist": "Mobb Deep",
+  "createdAt": "2026-03-17T20:55:20.629537Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Survival of the Fittest",
+      "artist": "Biohazard",
+      "has_synced": true,
+      "path": "select/01_Survival_of_the_Fittest_Biohazard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Survival of the Fittest",
+      "artist": "MobbDeepVEVO",
+      "has_synced": true,
+      "path": "select/02_Survival_of_the_Fittest_MobbDeepVEVO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Survival Of The Fittest",
+      "artist": "Merkules",
+      "has_synced": false,
+      "path": "select/03_Survival_Of_The_Fittest_Merkules.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Survival of the Fittest",
+      "artist": "Cycle",
+      "has_synced": false,
+      "path": "select/04_Survival_of_the_Fittest_Cycle.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Survival of the Fittest",
+      "artist": "Fredo",
+      "has_synced": true,
+      "path": "select/05_Survival_of_the_Fittest_Fredo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Survival Of The Fittest",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/06_Survival_Of_The_Fittest_Mobb_Deep.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Survival of the Fittest",
+      "artist": "LGoony",
+      "has_synced": false,
+      "path": "select/07_Survival_of_the_Fittest_LGoony.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Survival of the Fittest",
+      "artist": "Fredo",
+      "has_synced": true,
+      "path": "select/08_Survival_of_the_Fittest_Fredo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Survival Of The Fittest",
+      "artist": "Hollies",
+      "has_synced": false,
+      "path": "select/09_Survival_Of_The_Fittest_Hollies.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Survival Of The Fittest",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/10_Survival_Of_The_Fittest_Mobb_Deep.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SURVIVAL OF THE FITTEST",
+      "artist": "YSB Tril",
+      "has_synced": true,
+      "path": "select/11_SURVIVAL_OF_THE_FITTEST_YSB_Tril.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Survival of the Fittest",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/12_Survival_of_the_Fittest_Mobb_Deep.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Survival of the Fittest",
+      "artist": "Mobb Deep",
+      "has_synced": true,
+      "path": "select/13_Survival_of_the_Fittest_Mobb_Deep.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Survival of the Fittest",
+      "artist": "Mobb Deep",
+      "has_synced": false,
+      "path": "select/pl_01_Survival_of_the_Fittest_Mobb_Deep.txt"
+    }
+  ]
+}
